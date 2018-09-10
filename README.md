@@ -1,2 +1,1 @@
-# deep-learning-with-python
-Deep Learning with Python
+# Deep Learning with Python(Python深度学习)
