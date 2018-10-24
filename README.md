@@ -16,3 +16,4 @@
 5. 深度学习用于计算机视觉
     * 5.1 [MNIST 手写数字分类(卷积神经网络)](http://nbviewer.jupyter.org/github/wang-junjian/deep-learning-with-python/blob/master/5.1_mnist.ipynb)
     * 5.2 [在小型数据集上从头开始训练一个卷积神经网络](http://nbviewer.jupyter.org/github/wang-junjian/deep-learning-with-python/blob/master/5.2_small_datasets.ipynb)
+    * 5.3 [使用预训练的卷积神经网络](http://nbviewer.jupyter.org/github/wang-junjian/deep-learning-with-python/blob/master/5.3_using_pretraining_cnn.ipynb)
